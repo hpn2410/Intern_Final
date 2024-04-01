@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Intern_Final\\Student_Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Student_ManagementContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Models\\Student_ManagementContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|c:\\intern_final\\student_management\\student_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|c:\\intern_final\\student_management\\student_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\models\\student_managementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\student_managementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\data\\studentmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\studentmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|c:\\intern_final\\student_management\\student_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\interfaces\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\intern_final\\student_management\\businesslogiclayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +27,68 @@
       "RelativeMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\interfaces\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\intern_final\\student_management\\businesslogiclayer\\dto\\subject_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\subject_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\intern_final\\student_management\\businesslogiclayer\\dto\\student_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\student_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\intern_final\\student_management\\businesslogiclayer\\dto\\class_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\class_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\intern_final\\student_management\\businesslogiclayer\\dto\\grade_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\grade_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|c:\\intern_final\\student_management\\businesslogiclayer\\dto\\instructor_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2457EE-6F29-4B74-ABE4-7B3B0F01CACC}|BusinessLogicLayer\\BusinessLogicLayer.csproj|solutionrelative:businesslogiclayer\\dto\\instructor_dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|c:\\intern_final\\student_management\\student_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|c:\\intern_final\\student_management\\student_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0916DF81-3C70-49FD-9769-6BCC359EC950}|Student_Management\\Student_Management.csproj|solutionrelative:student_management\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\entities\\instructor_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\instructor_class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B7AF804-B2B6-41AB-9912-0050BD50DF25}|DataAccessLayer\\DataAccessLayer.csproj|c:\\intern_final\\student_management\\dataaccesslayer\\entities\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,66 +110,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:07:06.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Interfaces\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\StudentRepository.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Interfaces\\StudentRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Interfaces\\StudentRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:08:13.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Student_ManagementContext.cs",
               "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Student_ManagementContext.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Student_ManagementContext.cs",
               "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Student_ManagementContext.cs",
               "RelativeToolTip": "DataAccessLayer\\Models\\Student_ManagementContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T03:15:59.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\Student_Management\\appsettings.json",
-              "RelativeDocumentMoniker": "Student_Management\\appsettings.json",
-              "ToolTip": "C:\\Intern_Final\\Student_Management\\Student_Management\\appsettings.json",
-              "RelativeToolTip": "Student_Management\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-01T03:11:08.069Z",
+              "DocumentIndex": 6,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Subject.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Subject.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Subject.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:04:21.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentManagementDbContext.cs",
-              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Data\\StudentManagementDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\StudentManagementDbContext.cs",
-              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Data\\StudentManagementDbContext.cs",
-              "RelativeToolTip": "DataAccessLayer\\Data\\StudentManagementDbContext.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvxYAAABHAAAA",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Student.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Student.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:49:34.16Z",
+              "WhenOpened": "2024-04-01T09:04:08.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Class.cs",
-              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Class.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Class.cs",
-              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Class.cs",
-              "RelativeToolTip": "DataAccessLayer\\Entities\\Class.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Instructor.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:40:13.957Z"
+              "WhenOpened": "2024-04-01T09:04:09.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\Student_Management\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Student_Management\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Intern_Final\\Student_Management\\Student_Management\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Student_Management\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\Student_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Program.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\Student_Management\\Program.cs",
+              "RelativeToolTip": "Student_Management\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:36:27.091Z"
+              "WhenOpened": "2024-04-01T07:48:25.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -127,9 +207,10 @@
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\StudentService.cs",
               "ToolTip": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\Services\\StudentService.cs",
               "RelativeToolTip": "BusinessLogicLayer\\Services\\StudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:28:46.309Z"
+              "WhenOpened": "2024-04-01T02:28:46.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -139,37 +220,183 @@
               "RelativeDocumentMoniker": "BusinessLogicLayer\\Services\\IStudentService.cs",
               "ToolTip": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\Services\\IStudentService.cs",
               "RelativeToolTip": "BusinessLogicLayer\\Services\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:22:06.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Interfaces\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\IStudentRepository.cs",
-              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Interfaces\\IStudentRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Interfaces\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:07:06.433Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Interfaces\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Interfaces\\StudentRepository.cs",
-              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Interfaces\\StudentRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Interfaces\\StudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:08:13.307Z"
+              "WhenOpened": "2024-04-01T02:22:06.048Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Grade.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Grade.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Grade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:04:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Grade_DTO.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Grade_DTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\Grade_DTO.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Grade_DTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\Grade_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:58:09.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Instructor_DTO.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Instructor_DTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\Instructor_DTO.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Instructor_DTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\Instructor_DTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:58:21.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subject_DTO.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Subject_DTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\Subject_DTO.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Subject_DTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\Subject_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:58:43.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\Student_Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Student_Management\\appsettings.json",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\Student_Management\\appsettings.json",
+              "RelativeToolTip": "Student_Management\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T03:11:08.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Class.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Class.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Class.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Class.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:40:13.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\Class.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Models\\Class.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\Class.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:58:01.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Student.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Student.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Student.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:59:31.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student_DTO.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Student_DTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\Student_DTO.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Student_DTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\Student_DTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T09:02:08.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class_DTO.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Class_DTO.cs",
+              "RelativeDocumentMoniker": "BusinessLogicLayer\\DTO\\Class_DTO.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\BusinessLogicLayer\\DTO\\Class_DTO.cs",
+              "RelativeToolTip": "BusinessLogicLayer\\DTO\\Class_DTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:42:53.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\Student_Management\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Student_Management\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\Student_Management\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Student_Management\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T02:36:27.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Instructor_Class.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Instructor_Class.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Instructor_Class.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Instructor_Class.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Instructor_Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:38:13.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Instructor.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Instructor.cs",
+              "ToolTip": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Instructor.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:38:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\Intern_Final\\Student_Management\\DataAccessLayer\\Entities\\Grade.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Grade.cs",
@@ -177,7 +404,8 @@
               "RelativeToolTip": "DataAccessLayer\\Entities\\Grade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T02:40:22.118Z"
+              "WhenOpened": "2024-04-01T02:40:22.118Z",
+              "EditorCaption": ""
             }
           ]
         }
