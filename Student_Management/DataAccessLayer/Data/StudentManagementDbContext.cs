@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Data
 {
-    internal class StudentManagementDbContext : DbContext
+    public class StudentManagementDbContext : DbContext
     {
         public StudentManagementDbContext
             (DbContextOptions<StudentManagementDbContext> options) 

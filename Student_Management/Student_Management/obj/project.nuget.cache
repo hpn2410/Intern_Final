@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AkN4s6ZdQ/+3jzdbyxsRYnLgafefRKSAAKq2yjKrk1dULNo1LT4z8IaUncAOIylyL64AvWcRtNTSUUOEBUOy5w==",
+  "dgSpecHash": "bWPN6fw9XGt2LnASRCZWNnYIzRPzZu62qNtnLN/7qOtQtYwt/UaWgSJeiHA+EJEF2nUYBPoEGOzyweJk2Zivkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pnu24\\source\\repos\\Student_Management\\Student_Management\\Student_Management.csproj",
+  "projectFilePath": "C:\\Intern_Final\\Student_Management\\Student_Management\\Student_Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pnu24\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pnu24\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

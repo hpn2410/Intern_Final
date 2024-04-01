@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Entities
 {
-    internal class Class
+    public class Class
     {
         public int Class_Id { get; set; }
         public string Class_Code { get; set; }
